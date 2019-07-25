@@ -1,7 +1,7 @@
 
 const request = require('supertest');
 const should = require('should');
-const app = require('./index');
+const app = require('../../');
 
 //done : 콜백함수. 비동기 처리를 위해 사용.
 
