@@ -1,15 +1,9 @@
-#Jenkins 연습
-###Installation
+#Jenkins Build
+###Installation & RUN
 <pre>
-cd /home/dev
-mkdir TEST
-cd TEST
+cd /home/dev/TEST
 git clone https://github.com/jeongraeJR/nodejs-tdd-study.git
 cd nodejs-tdd-study
-</pre>
-###RUN
-<pre>
 cd node-api
 npm install
 npm start
-</pre>
